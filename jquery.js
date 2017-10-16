@@ -6,7 +6,7 @@ $("#show").click(function(){
     $("p").show();
 });
 
-for ( ; i < length; i++ ) {
+for ( i=1; i < length; i++ ) {
     
        
             if ( ( options = arguments[ i ] ) != null ) {
